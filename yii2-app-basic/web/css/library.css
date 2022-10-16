@@ -1,0 +1,11 @@
+thead{
+    color: white;
+    background-color: black;
+}
+table{
+    width: 600px;
+    text-align: center;
+}
+td{
+ border: 1px solid grey;
+}
